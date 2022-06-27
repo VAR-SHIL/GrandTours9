@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Analytics**
 
-- 💬 Ask me about **HTML , CSS , Python ,**
+- 💬 Ask me about **HTML , CSS , Python **
 
 - 📫 How to reach me **varshilgajera2408@gmail.com**
 
